@@ -1,3 +1,7 @@
-# About
+---
+layout: default
+title: About
+---
+# About page
 
-Some more information here
+This page tells you a little bit about me.
