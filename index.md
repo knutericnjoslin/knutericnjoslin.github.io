@@ -1,5 +1,6 @@
-Knut-Eric N. Joslin
-===================
+---
+layout: default
+---
 
 # Knut-Eric N. Joslin
 ##  Høyskolen Kristiania
