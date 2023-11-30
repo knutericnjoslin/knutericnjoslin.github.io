@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Your Title Here"
+---
+
 # Knut-Eric N. Joslin
 ##  Høyskolen Kristiania
 ### Institutt for Økonomi og Innovasjon
