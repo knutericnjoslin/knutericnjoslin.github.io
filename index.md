@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Knut-Eric N. Joslin
 ##  Høyskolen Kristiania
 ### Institutt for Økonomi og Innovasjon
